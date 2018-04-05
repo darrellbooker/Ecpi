@@ -1,0 +1,27 @@
+EducationSelected = false;
+HousingSelected = false;
+IdentitySelected = false;
+JobSelected = false;
+SkillsSelected = false;
+MentalSelected = false;
+MoneySelected = false;
+PermanencySelected = false;
+PersonalSelected = false;
+PhysicalSelected = false;
+RelationshipsSelected = false;
+TransportationSelected = false;
+
+
+Personal = 1,
+            Job = 2,
+            Money = 3,
+            PhysicalHealth=4,
+            MentalHealth=5,
+            Identity=7,
+            LifeSkills=8,
+            Education = 9,
+            Transportation=10,
+            Housing = 11,
+            Permanency=12,
+            Relationships=13,
+            Legal=14,
